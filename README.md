@@ -19,6 +19,8 @@
 ![Sian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SianAliMalik2418&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
+![<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">](https://www.linkedin.com/in/sianalimalik/) [LinkedIn]
+
 <p align="left">
 </p>
 
